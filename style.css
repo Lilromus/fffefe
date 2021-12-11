@@ -1,0 +1,35 @@
+body {
+	font-family: Tahoma;
+	background: #88A3CB;
+	margin: 0;
+    background-image: url(https://oir.mobi/uploads/posts/2021-03/1616549613_34-p-sneg-fon-36.jpg);
+
+}
+h1 {
+	cursor: help;
+	margin: 0;
+	text-transform:uppercase;
+	padding-bottom: 5px;
+	border-bottom: 3px solid #5200a5;
+}
+
+form {
+	margin:0 auto;
+	background: rgb(0, 186, 255);
+	width: 700px;
+    height: 1200px;
+    padding: 20px;
+    box-shadow:2px 2px 5px rgba(0,0,0,0.82);
+
+}
+
+
+
+
+
+
+
+
+
+
+
